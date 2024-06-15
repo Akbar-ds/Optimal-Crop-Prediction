@@ -30,8 +30,8 @@ pip install -r requirements.txt
 
 ## Future Scope
 
-*Incorporate More Environmental Variables
 * Expand Dataset
+* Incorporate More Environmental Variables
 * Real-time Data Integration
 * Mobile Application Development
 * Integration with Farming Management Systems:
