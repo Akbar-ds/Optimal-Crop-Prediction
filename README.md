@@ -2,19 +2,24 @@
 The model aims to predict the optimal crop for a given set of environmental conditions, including soil nitrogen (N), phosphorus (P), potassium (K) levels, temperature, humidity, pH, and rainfall.The model helps farmers in informed decision making
 
 ## Table of Content
+  * [Prediction App](#interface)
   * [Interface](#interface)
   * [Overview](#overview)
   * [Installation](#installation)
   * [Future scope of project](#future-scope)
-  
+ 
+## Crop Prediction App
+
+* Note-download the dataset given in the repository and drop in the browse file section of the app for prediction.
+* Link for the app-https://optimal-crop-prediction-m5mxm4tmcbpi4gnhvnxcm3.streamlit.app/
+
 
 
 ## Interface
-![crop](https://github.com/Akbar-ds/Optimal-Crop-Prediction/assets/172882659/601ceec8-fa66-48c0-9a5b-4fcfd29d4736)
-![chickpea](https://github.com/Akbar-ds/Optimal-Crop-Prediction/assets/172882659/8f79258e-ccdb-40ca-951d-b98d5a98ea26)
-![watermelon 1](https://github.com/Akbar-ds/Optimal-Crop-Prediction/assets/172882659/e2404413-0f89-42c6-ae82-5ac98c46f65c)
-![image](https://github.com/Akbar-ds/Optimal-Crop-Prediction/assets/172882659/be2e2334-6075-4347-a99c-7f8db336c81c)
-
+![op1](https://github.com/Akbar-ds/Optimal-Crop-Prediction/assets/172882659/ad4e1d0f-5927-46a9-9d68-b14a26697317)
+![op3](https://github.com/Akbar-ds/Optimal-Crop-Prediction/assets/172882659/388b6f28-55f3-4d28-b700-d2eb35f873c2)
+![opw](https://github.com/Akbar-ds/Optimal-Crop-Prediction/assets/172882659/8c366a71-0156-4a19-ac51-f1c233e72acc)
+![opp](https://github.com/Akbar-ds/Optimal-Crop-Prediction/assets/172882659/6ecd7287-d745-4448-aafa-ef8ef7215fab)
 
 ## Overview
 This project involves developing a machine learning model to predict the optimal crop based on environmental factors such as soil nitrogen, phosphorus, potassium, temperature, humidity, pH, and rainfall. Utilizing logistic regression and an interactive interface, the model aids in informed decision-making for crop selection under specific conditions.
